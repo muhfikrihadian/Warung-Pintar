@@ -10,6 +10,21 @@
 ## About Laravel
 
 Selamat menunaikan ibadah puasa
+Daftar User :
+1.  Nama        :   Admin Warung Pintar
+    Email       :   adminwarung@gmail.com
+    Password    :   adminwarung
+    Role        :   Admin
+    
+2.  Nama        :   Super Admin Warung Pintar
+    Email       :   superadminwarung@gmail.com
+    Password    :   superadminwarung
+    Role        :   Super Admin
+    
+3.  Nama        :   Kasir Warung Pintar
+    Email       :   kasirwarung@gmail.com
+    Password    :   kasirwarung
+    Role        :   Kasir
 
 ## License
 
