@@ -9,9 +9,7 @@
 
 ## About Laravel
 
-## Report Pembayaran error gan :V 
-
-Pler
+Selamat menunaikan ibadah puasa
 
 ## License
 
